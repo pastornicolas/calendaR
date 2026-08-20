@@ -46,10 +46,11 @@ ui <- fluidPage(
   sidebarLayout(
     sidebarPanel(
       radioButtons(inputId = "hemisf",
-                   label = "Elija un su posición",
+                   label = "Elija la posición geográfica:",
                    choices = c("Hemisferio Sur" = "hsur",
                                "Hemisferio Norte" = "hnorte"),
                    selected = "hsur", inline = TRUE),
+      hr(),
       mod_categorias_ui("categorias"),
       width = 3
       ),
