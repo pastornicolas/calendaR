@@ -67,8 +67,7 @@ ui <- fluidPage(
             target = '_blank'),
           downloadButton(
             "guardar_pdf",
-            "Guardar PDF")
-          ),
+            "Guardar PDF")),
         tabPanel(
           "Datos",
           DT::DTOutput(
