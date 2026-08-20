@@ -15,7 +15,7 @@ CalendaR es una herramienta interactiva para graficar ciclos forrajeros y otros 
 - Fecha de inicio
 - Fecha de fin
 
-4.Una vez completo, puede descargar el gráfico como un archivo PNG y/o PDF. También puede desvar un CSV con los datos en la pestaña 'Datos'.
+4. Una vez completo, puede descargar el gráfico como un archivo PNG y/o PDF. También puede desvar un CSV con los datos en la pestaña 'Datos'.
 
 La aplicación es reactiva, es decir, se actualiza a medida que el usuario ingresa los datos. Por ello, se recomienda cargar los datos de a poco y esperar la actualización.
 
