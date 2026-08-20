@@ -3,7 +3,7 @@ Herramienta interactiva para graficar ciclos forrajeros (u otros datos que varí
 
 La aplicación puede ejecutarse [AQUI]()
 
-## ¿Qué es CalendaR?"
+## ¿Qué es CalendaR?
 CalendaR es una herramienta interactiva para graficar ciclos forrajeros y otros datos que varían a lo largo del año. Actualmente permite graficar hasta 9 categorías diferentes cada una con hasta 3 subcategorías (recursos). Por el momento, el calendario esta fijado al hemisferio Sur, pero espero poder incluir la posibilidad de usar estaciones del hemisferio Norte.
 
 ## ¿Cómo usar la aplicación?
@@ -14,6 +14,7 @@ CalendaR es una herramienta interactiva para graficar ciclos forrajeros y otros 
 - Etiqueta del recurso
 - Fecha de inicio
 - Fecha de fin
+
 4.Una vez completo, puede descargar el gráfico como un archivo PNG y/o PDF. También puede desvar un CSV con los datos en la pestaña 'Datos'.
 
 La aplicación es reactiva, es decir, se actualiza a medida que el usuario ingresa los datos. Por ello, se recomienda cargar los datos de a poco y esperar la actualización.
@@ -23,8 +24,6 @@ La aplicación es reactiva, es decir, se actualiza a medida que el usuario ingre
 
 ## ¿Cómo citar?
 Si utiliza esta aplicación, por favor incluya la cita: "Pastor, N. (2026)", *CalendaR*. Disponible en: [https://pastornicolas.github.io/CalendaR](https://pastornicolas.github.io/CalendaR)
-
-------------------------------------------------------------------------
 
 ## Contacto
 Si encuentra un error o tiene alguna sugerencia para mejorar la aplicación puede comunicarse con el autor: npastor@unc.edu.ar
