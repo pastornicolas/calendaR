@@ -63,7 +63,8 @@ ui <- fluidPage(
           hr(),
           downloadButton(
             "guardar_png",
-            "Guardar PNG"),
+            "Guardar PNG",
+            target = '_blank'),
           downloadButton(
             "guardar_pdf",
             "Guardar PDF")
@@ -115,7 +116,7 @@ ui <- fluidPage(
               
               h4("¿Cómo citar?"),
               p("Si utiliza esta aplicación, por favor incluya la cita:", tags$br(), "Pastor, N. (2026)",
-                HTML("<i>CalendaR</i>. Disponible en: <a href='https://pastornicolas.github.io/CalendaR'
+                HTML("<i>CalendaR</i>. Disponible en: <a href='https://pastornicolas.github.io/calendaR'
                      target='_blank'>https://pastornicolas.github.io/CalendaR</a>")),
               hr(),
               h4("Contacto"),

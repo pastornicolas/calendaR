@@ -104,11 +104,7 @@ categorias_to_df <- function(categorias) {
   category_number <- match(
     df$categoria,
     paste("Categoría", seq_len(n)))
-  
-  # recurso_number <- match(
-  #   df$label,
-  #   paste("Recurso", seq_len(3)))
-  
+
   recurso_number <- ave(
     seq_len(nrow(df)),
     df$categoria,
