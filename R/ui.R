@@ -116,7 +116,7 @@ ui <- fluidPage(
               h4("¿Cómo citar?"),
               p("Si utiliza esta aplicación, por favor incluya la cita:", tags$br(), "Pastor, N. (2026)",
                 HTML("<i>CalendaR</i>. Disponible en: <a href='https://pastornicolas.github.io/calendaR'
-                     target='_blank'>https://pastornicolas.github.io/CalendaR</a>")),
+                     target='_blank'>https://pastornicolas.github.io/calendaR</a>")),
               hr(),
               h4("Contacto"),
               p("Si encuentra un error o tiene alguna sugerencia para mejorar la aplicación,",
